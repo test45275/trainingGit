@@ -1,2 +1,3 @@
 je rajoute rien que du texte...
-conflit?
+conflit?modif 1
+qui a modifié MON fichier ?
