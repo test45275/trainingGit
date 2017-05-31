@@ -1,2 +1,2 @@
-# trainingGit
+ # trainingGit
 Git training
